@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mitsukuri03/website_root/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/Mitsukuri03/website_root/static/js/main.e1e17e60.chunk.js",
+    "main.js.map": "/Mitsukuri03/website_root/static/js/main.e1e17e60.chunk.js.map",
+    "runtime-main.js": "/Mitsukuri03/website_root/static/js/runtime-main.1d79d336.js",
+    "runtime-main.js.map": "/Mitsukuri03/website_root/static/js/runtime-main.1d79d336.js.map",
+    "static/js/2.eb09c538.chunk.js": "/Mitsukuri03/website_root/static/js/2.eb09c538.chunk.js",
+    "static/js/2.eb09c538.chunk.js.map": "/Mitsukuri03/website_root/static/js/2.eb09c538.chunk.js.map",
+    "index.html": "/Mitsukuri03/website_root/index.html",
+    "precache-manifest.88bf181d8b01c966d0aac11eeccd2388.js": "/Mitsukuri03/website_root/precache-manifest.88bf181d8b01c966d0aac11eeccd2388.js",
+    "service-worker.js": "/Mitsukuri03/website_root/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/Mitsukuri03/website_root/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.eb09c538.chunk.js.LICENSE": "/Mitsukuri03/website_root/static/js/2.eb09c538.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Mitsukuri03/website_root/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d79d336.js",
+    "static/js/2.eb09c538.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.e1e17e60.chunk.js"
+  ]
+}
